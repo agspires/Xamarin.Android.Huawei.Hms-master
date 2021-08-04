@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <attr path="/api/package[@name='com.huawei.agconnect.common.api']" name="managedName">Huawei.Agconnect.Common.Api</attr>
+    <attr path="/api/package[@name='com.huawei.agconnect.credential']" name="managedName">Huawei.Agconnect.Credential</attr>
+    <attr path="/api/package[@name='com.huawei.agconnect.credential.obs']" name="managedName">Huawei.Agconnect.Credential.Obs</attr>
+</metadata>

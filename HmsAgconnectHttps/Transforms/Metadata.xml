@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <attr path="/api/package[@name='com.huawei.agconnect.https']" name="managedName">Huawei.Agconnect.Https</attr>
+    <attr path="/api/package[@name='com.huawei.agconnect.https.adapter']" name="managedName">Huawei.Agconnect.Https.Adapter</attr>
+    <attr path="/api/package[@name='com.huawei.agconnect.https.annotation']" name="managedName">Huawei.Agconnect.Https.Annotation</attr>
+</metadata>
