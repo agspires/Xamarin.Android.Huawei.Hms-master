@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Xamarin.Android.Huawei.Hms.Scan</id>
+    <version>1.2.5.300</version>
+    <title>Xamarin Huawei Hms Scan SDK</title>
+    <description>Xamarin Binding Library - Huawei Hms Scan SDK.</description>
+    <authors>John Thiriet</authors>
+    <owners>John Thiriet</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/johnthiriet/Xamarin.Android.Huawei.Hms</projectUrl>
+    <releaseNotes>Xamarin Android binding for the Hms Scan SDK</releaseNotes>
+    <copyright>Copyright (c) 2020-present John Thiriet</copyright>
+    <tags>Xamarin, Xamarin.Android, Huawei, HMS, Scan</tags>
+    <dependencies>
+      <group>
+        <dependency id="Xamarin.Android.Huawei.Agconnect.Core" version="1.4.2.300" include="contentFiles, build" />
+        <dependency id="Xamarin.Android.Huawei.Hms.NetworkGrs" version="4.0.20.301" include="contentFiles, build" />
+        <dependency id="Xamarin.Android.Huawei.Hms.ML.Base" version="2.0.3.300" include="contentFiles, build" />
+        <dependency id="Xamarin.Android.Huawei.Hms.ML.Camera" version="2.0.3.300" include="contentFiles, build" />
+        <dependency id="Xamarin.Android.Huawei.Hms.ML.Ha" version="2.0.3.300" include="contentFiles, build" />
+        <dependency id="Xamarin.Android.Huawei.Hms.DynamicApi" version="1.0.15.302" include="contentFiles, build" />
+        <dependency id="Xamarin.Android.Huawei.Hmf.Tasks" version="1.4.1.300" include="contentFiles, build" />
+      </group>
+      <group targetFramework="MonoAndroid9.0">
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Java.Interop" targetFramework="MonoAndroid9.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
